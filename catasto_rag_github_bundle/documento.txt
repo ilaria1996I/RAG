@@ -1,0 +1,13 @@
+Il protagonista della storia è Marco Rossi, un giovane studente universitario di informatica che vive a Milano. Marco è appassionato di intelligenza artificiale e trascorre gran parte del suo tempo a sviluppare piccoli progetti personali.
+
+Un giorno, durante un corso avanzato, Marco scopre un vecchio archivio digitale contenente documenti misteriosi appartenuti a un ricercatore scomparso. Questo ricercatore, il professor Luca Bianchi, era noto per i suoi studi pionieristici nel campo delle reti neurali.
+
+Spinto dalla curiosità, Marco decide di approfondire il contenuto dei file trovati. Durante le sue ricerche, scopre che il professor Bianchi stava lavorando a un sistema capace di apprendere autonomamente da grandi quantità di dati, anticipando molte delle tecnologie moderne.
+
+Nel corso della storia, Marco incontra anche Sara, una collega di corso esperta di sicurezza informatica. Sara aiuta Marco a decifrare alcuni dei file criptati presenti nell’archivio. Insieme, i due riescono a ricostruire parte del progetto originale del professor Bianchi.
+
+Il progetto si rivela essere estremamente avanzato e contiene informazioni sensibili che potrebbero avere un grande impatto sul mondo tecnologico. Tuttavia, alcune parti del sistema sembrano incomplete, suggerendo che il lavoro del professore sia stato interrotto bruscamente.
+
+Marco e Sara decidono di non pubblicare immediatamente i risultati, ma di continuare a studiare il materiale per comprenderne meglio le implicazioni etiche e tecniche.
+
+Alla fine, Marco diventa sempre più coinvolto nella ricerca e decide di dedicare la sua carriera allo studio dell’intelligenza artificiale, ispirato dal lavoro del professor Bianchi.
